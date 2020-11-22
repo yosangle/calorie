@@ -43,16 +43,16 @@ var weight_gain= [
         "Breakfast": "4 slices Whole-Wheat Bread,3 tbsp Peanut Butter,1 Banana, 3 tsp Honey",
         "Lunch": "2 Baked Potatoes (200g each),100g Tuna, 80g Sweet Corn, 1 tbsp Mayonnaise,Green Salad dressed with 1 tbsp Olive Oil, Vinegar, Seasoning",
         "Evening Snack": "1 Avocado (mashed), on 3 Rye Crackers",
-        "Dinner": "4 Chicken Thighs (grilled/roasted),150g (uncooked weight) Brown Rice,Roast Mediterranean Vegetables (zucchini, red onion, capsicum, eggplant etc.) in 1 tbsp Olive Oil",
+        "Dinner": "150g (uncooked weight) Brown Rice,Roast Mediterranean Vegetables (zucchini, red onion, capsicum, eggplant etc.) in 1 tbsp Olive Oil",
         "Bed-time snacks": "1 Apple (sliced), 1 tbsp Peanut butter",
         "calories":"3010"
     },
     {
         "name": "Vegetable and Fruit 2",
         "Breakfast": "65g Oats, 300ml Whole Milk,1 Banana, 25g Nuts, 2 tsp Honey,Glass of Orange Juice",
-        "Lunch": "200g Canned Salmon,2 Whole-Wheat Pitta Breads,2 tbsp Mayonnaise, Salad,1 Apple",
+        "Lunch": "2 Whole-Wheat Pitta Breads,2 tbsp Mayonnaise, Salad,1 Apple",
         "Evening Snack": "Granola Bar",
-        "Dinner": "Large Cod Fillet (150g),300g Potato Wedges, cooked in 1 tbsp Oil,Mixed Salad Leaves, 1 tbsp Olive Oil, seasoning",
+        "Dinner": "300g Potato Wedges, cooked in 1 tbsp Oil,Mixed Salad Leaves, 1 tbsp Olive Oil, seasoning",
         "Bed-time snacks": "1 Mashed Banana on 1 slice Wheat Toast",
         "calories":"2904"
     }
@@ -66,24 +66,24 @@ var muscle_gain= [
         "Evening Snack": "1 cup berries (strawberries, blueberries, raspberries) 2 cups low-fat cottage cheese.",
         "Dinner": "200g salmon steak, 2 cups couscous, 2 cups spinach, 1 tbsp balsamic dressing.",
         "Bed-time snacks": "3 scoops (60g) of Vitalstrength Pro-Muscle mixed with 300ml milk.",
-        "calories":"2947"
+        "calories":"4025"
     },
     {
         "name": "Vegetable and Fruit 1",
-        "Breakfast": "2 poached eggs, 2 slices multigrain toast, 1 tbsp natural peanut butter, 1 ½ cup oats, 3 scoops (60g) of Vitalstrength Pro-Muscle mixed with 300ml milk.",
-        "Lunch": "200g steak, 1 cup chickpeas, 1 tomato diced, ½ cucumber diced. 1 apple.",
+        "Breakfast": " 2 slices multigrain toast, 1 tbsp natural peanut butter, 1 ½ cup oats, 3 scoops (60g) of Vitalstrength Pro-Muscle mixed with 300ml milk.",
+        "Lunch": " 1 tomato diced, ½ cucumber diced. 1 apple.",
         "Evening Snack": "1 cup low-fat greek yoghurt, 2 tbsp honey, 1 banana",
-        "Dinner": "200g chicken breast, sweet potato, 2 med carrots, 1 cup green vegies.",
+        "Dinner": " sweet potato, 2 med carrots, 1 cup green vegies.",
         "Bed-time snacks": "3 scoops (60g) of Vitalstrength Pro-Muscle mixed with 300ml milk.",
-        "calories":"3010"
+        "calories":"3900"
     },
     {
         "name": "Vegetable and Fruit 2",
         "Breakfast": "3 whole eggs,3 egg whites (scrambled),2 cups of cooked oats with 1 tbsp honey, 1 banana3 scoops (60g) of Vitalstrength Pro-Muscle mixed with 300ml milk",
-        "Lunch": "2 cups cooked brown rice, 300g cooked chicken breast,1 cup green vegies.",
+        "Lunch": "2 cups cooked brown rice, 1 cup green vegies.",
         "Evening Snack": "1 cup berries (strawberries, blueberries, raspberries) 2 cups low-fat cottage cheese.",
-        "Dinner": "200g salmon steak, 2 cups couscous, 2 cups spinach, 1 tbsp balsamic dressing.",
+        "Dinner": " 2 cups couscous, 2 cups spinach, 1 tbsp balsamic dressing.",
         "Bed-time snacks": "3 scoops (60g) of Vitalstrength Pro-Muscle mixed with 300ml milk.",
-        "calories":"2947"
+        "calories":"3600"
     }
 ]
